@@ -1,2 +1,2 @@
 # Fourier-simulation
-This simulation is made for teaching-learning tools in mathematical physics course
+This simulation is made for teaching-learning tool in mathematical physics course
